@@ -1,0 +1,4 @@
+1. github account
+2. link remote and local repo
+3. commit
+4. push the local commits to remote github repo
