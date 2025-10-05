@@ -5,3 +5,5 @@ adding something new to this file
 some more new changes are being done here
 
 now I am working on branch
+
+this new change will be discarded
